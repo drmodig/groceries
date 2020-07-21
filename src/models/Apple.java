@@ -2,18 +2,18 @@ package models;
 
 public class Apple extends Fruit {
 
-	 private int price = 10;
+	 private double price = 10.00;
 	 private boolean discounted; 
 	
 	public static void main(String[] args) {
 		
 	}
 
-	public int getPrice() {
+	public double getPrice() {
 		return price;
 	}
 
-	public void setPrice(int price) {
+	public void setPrice(double price) {
 		this.price = price;
 	}
 
