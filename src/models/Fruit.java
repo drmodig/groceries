@@ -1,5 +1,5 @@
 package models;
 
-public abstract class Fruit extends Grocerie {
+public class Fruit extends Grocerie {
 
 }

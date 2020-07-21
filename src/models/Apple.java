@@ -2,7 +2,7 @@ package models;
 
 public class Apple extends Fruit {
 
-	 private double price = 10.00;
+	 private double price = 10;
 	 private boolean discounted; 
 	
 	public static void main(String[] args) {

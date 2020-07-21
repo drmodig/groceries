@@ -1,6 +1,6 @@
 package models;
 
-public abstract class Grocerie {
+public class Grocerie {
 	
 	
 
